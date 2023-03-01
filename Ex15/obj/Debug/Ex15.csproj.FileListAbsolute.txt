@@ -1,0 +1,7 @@
+D:\C#\Practice\SetOne\Ex15\bin\Debug\Ex15.exe.config
+D:\C#\Practice\SetOne\Ex15\bin\Debug\Ex15.exe
+D:\C#\Practice\SetOne\Ex15\bin\Debug\Ex15.pdb
+D:\C#\Practice\SetOne\Ex15\obj\Debug\Ex15.csprojAssemblyReference.cache
+D:\C#\Practice\SetOne\Ex15\obj\Debug\Ex15.csproj.CoreCompileInputs.cache
+D:\C#\Practice\SetOne\Ex15\obj\Debug\Ex15.exe
+D:\C#\Practice\SetOne\Ex15\obj\Debug\Ex15.pdb

@@ -1,0 +1,7 @@
+D:\C#\Practice\Assignments\SetOne\test1\obj\Debug\test1.csproj.AssemblyReference.cache
+D:\C#\Practice\Assignments\SetOne\test1\obj\Debug\test1.csproj.CoreCompileInputs.cache
+D:\C#\Practice\Assignments\SetOne\test1\bin\Debug\test1.exe.config
+D:\C#\Practice\Assignments\SetOne\test1\bin\Debug\test1.exe
+D:\C#\Practice\Assignments\SetOne\test1\bin\Debug\test1.pdb
+D:\C#\Practice\Assignments\SetOne\test1\obj\Debug\test1.exe
+D:\C#\Practice\Assignments\SetOne\test1\obj\Debug\test1.pdb

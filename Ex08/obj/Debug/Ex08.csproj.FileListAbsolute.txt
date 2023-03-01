@@ -1,0 +1,6 @@
+D:\C#\Practice\SetOne\Ex08\bin\Debug\Ex08.exe.config
+D:\C#\Practice\SetOne\Ex08\bin\Debug\Ex08.exe
+D:\C#\Practice\SetOne\Ex08\bin\Debug\Ex08.pdb
+D:\C#\Practice\SetOne\Ex08\obj\Debug\Ex08.csproj.CoreCompileInputs.cache
+D:\C#\Practice\SetOne\Ex08\obj\Debug\Ex08.exe
+D:\C#\Practice\SetOne\Ex08\obj\Debug\Ex08.pdb

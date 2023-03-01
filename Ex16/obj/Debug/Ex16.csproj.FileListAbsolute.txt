@@ -1,0 +1,7 @@
+D:\C#\Practice\SetOne\Ex16\bin\Debug\Ex16.exe.config
+D:\C#\Practice\SetOne\Ex16\bin\Debug\Ex16.exe
+D:\C#\Practice\SetOne\Ex16\bin\Debug\Ex16.pdb
+D:\C#\Practice\SetOne\Ex16\obj\Debug\Ex16.csprojAssemblyReference.cache
+D:\C#\Practice\SetOne\Ex16\obj\Debug\Ex16.csproj.CoreCompileInputs.cache
+D:\C#\Practice\SetOne\Ex16\obj\Debug\Ex16.exe
+D:\C#\Practice\SetOne\Ex16\obj\Debug\Ex16.pdb

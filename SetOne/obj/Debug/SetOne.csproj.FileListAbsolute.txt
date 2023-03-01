@@ -1,0 +1,7 @@
+D:\C#\Practice\SetOne\SetOne\obj\Debug\SetOne.csprojAssemblyReference.cache
+D:\C#\Practice\SetOne\SetOne\obj\Debug\SetOne.csproj.CoreCompileInputs.cache
+D:\C#\Practice\SetOne\SetOne\bin\Debug\SetOne.exe.config
+D:\C#\Practice\SetOne\SetOne\bin\Debug\SetOne.exe
+D:\C#\Practice\SetOne\SetOne\bin\Debug\SetOne.pdb
+D:\C#\Practice\SetOne\SetOne\obj\Debug\SetOne.exe
+D:\C#\Practice\SetOne\SetOne\obj\Debug\SetOne.pdb

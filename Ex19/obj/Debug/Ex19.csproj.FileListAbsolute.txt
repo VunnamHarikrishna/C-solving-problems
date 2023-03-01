@@ -1,0 +1,7 @@
+D:\C#\Practice\SetOne\Ex19\bin\Debug\Ex19.exe.config
+D:\C#\Practice\SetOne\Ex19\bin\Debug\Ex19.exe
+D:\C#\Practice\SetOne\Ex19\bin\Debug\Ex19.pdb
+D:\C#\Practice\SetOne\Ex19\obj\Debug\Ex19.csproj.CoreCompileInputs.cache
+D:\C#\Practice\SetOne\Ex19\obj\Debug\Ex19.exe
+D:\C#\Practice\SetOne\Ex19\obj\Debug\Ex19.pdb
+D:\C#\Practice\SetOne\Ex19\obj\Debug\Ex19.csprojAssemblyReference.cache

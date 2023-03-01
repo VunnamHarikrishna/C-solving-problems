@@ -1,0 +1,13 @@
+D:\C#\Practice\SetOne\Ex03\bin\Debug\Ex03.exe.config
+D:\C#\Practice\SetOne\Ex03\bin\Debug\Ex03.exe
+D:\C#\Practice\SetOne\Ex03\bin\Debug\Ex03.pdb
+D:\C#\Practice\SetOne\Ex03\obj\Debug\Ex03.csproj.CoreCompileInputs.cache
+D:\C#\Practice\SetOne\Ex03\obj\Debug\Ex03.exe
+D:\C#\Practice\SetOne\Ex03\obj\Debug\Ex03.pdb
+D:\C#\Practice\Assignments\SetOne\Ex03\bin\Debug\Ex03.exe.config
+D:\C#\Practice\Assignments\SetOne\Ex03\bin\Debug\Ex03.exe
+D:\C#\Practice\Assignments\SetOne\Ex03\bin\Debug\Ex03.pdb
+D:\C#\Practice\Assignments\SetOne\Ex03\obj\Debug\Ex03.csproj.AssemblyReference.cache
+D:\C#\Practice\Assignments\SetOne\Ex03\obj\Debug\Ex03.csproj.CoreCompileInputs.cache
+D:\C#\Practice\Assignments\SetOne\Ex03\obj\Debug\Ex03.exe
+D:\C#\Practice\Assignments\SetOne\Ex03\obj\Debug\Ex03.pdb

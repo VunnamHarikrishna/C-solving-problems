@@ -1,0 +1,7 @@
+D:\C#\Practice\SetOne\Split\bin\Debug\Split.exe.config
+D:\C#\Practice\SetOne\Split\bin\Debug\Split.exe
+D:\C#\Practice\SetOne\Split\bin\Debug\Split.pdb
+D:\C#\Practice\SetOne\Split\obj\Debug\Split.csprojAssemblyReference.cache
+D:\C#\Practice\SetOne\Split\obj\Debug\Split.csproj.CoreCompileInputs.cache
+D:\C#\Practice\SetOne\Split\obj\Debug\Split.exe
+D:\C#\Practice\SetOne\Split\obj\Debug\Split.pdb

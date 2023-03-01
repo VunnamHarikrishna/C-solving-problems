@@ -1,0 +1,7 @@
+D:\C#\Practice\SetOne\Ex21\obj\Debug\Ex21.csprojAssemblyReference.cache
+D:\C#\Practice\SetOne\Ex21\obj\Debug\Ex21.csproj.CoreCompileInputs.cache
+D:\C#\Practice\SetOne\Ex21\bin\Debug\Ex21.exe.config
+D:\C#\Practice\SetOne\Ex21\bin\Debug\Ex21.exe
+D:\C#\Practice\SetOne\Ex21\bin\Debug\Ex21.pdb
+D:\C#\Practice\SetOne\Ex21\obj\Debug\Ex21.exe
+D:\C#\Practice\SetOne\Ex21\obj\Debug\Ex21.pdb
